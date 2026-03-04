@@ -66,3 +66,7 @@ medium 98.45% de certeza
 
 - **JavaScript (Node.js)**
 - **TensorFlow.js API** (`@tensorflow/tfjs-node`)
+
+## 🤖 Créditos
+
+O desenvolvimento e refinamento do código-fonte deste projeto contaram com o auxílio da inteligência artificial **CLAUDE**.
